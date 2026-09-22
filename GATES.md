@@ -60,7 +60,14 @@
 - G5: ✅ PASS — route.py --query/--format/--short 跑通
 - G6: ✅ PASS — 10/10 真实 query 路由全对
 - G7: ✅ PASS — LICENSE (MIT) + README + .gitignore
-- G8: ⏳ 待跑（等用户决定是否推 GitHub）
+- **G8: ✅ PASS — GitHub 推送（commit 9af4378 一致 + MIT + 8 topics）**
+
+## 开源元数据
+- 仓库: https://github.com/hanli1999/meta-router
+- commit: 9af4378ea0830473b51a4323bd4e4d1413183582
+- updatedAt: 2026-09-22T04:04:09Z
+- license: MIT
+- topics (8): ai-agent / capability-matrix / claude-code / meta-skill / mvp / open-source / router / skill
 
 ## 测试结果详情（G6）
 

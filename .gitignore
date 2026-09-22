@@ -1,0 +1,19 @@
+# 系统文件
+.DS_Store
+Thumbs.db
+*.pyc
+__pycache__/
+*.swp
+.idea/
+.vscode/
+
+# 测试临时文件
+test_*.py
+*.tmp
+*.log
+
+# Python
+*.egg-info/
+build/
+dist/
+.pytest_cache/
